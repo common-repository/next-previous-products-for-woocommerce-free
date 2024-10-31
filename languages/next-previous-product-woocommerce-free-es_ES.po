@@ -1,0 +1,103 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Next Previous Products for Woocommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-07-19 11:55+0000\n"
+"PO-Revision-Date: 2017-07-19 11:58+0000\n"
+"Last-Translator: cristina.bustelo.fernandez@gmail.com <cristina.bustelo."
+"fernandez@gmail.com>\n"
+"Language-Team: Spanish (Spain)\n"
+"Language: es-ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: include/next-admin.php:12 include/next-admin.php:12
+msgid "Next / Previous Product Free"
+msgstr "Anterior / Siguiente Producto Free"
+
+#: include/next-admin.php:58
+msgid "NEXT / PREVIOUS PRODUCT FOR WOOCOMMERCE - FREE"
+msgstr "PRODUCTO ANTERIOR / SIGUIENTE PARA WOOCOMMERCE - FREE"
+
+#: include/next-admin.php:85
+msgid ""
+"Note: Advanced customization options are not available in free version. <a "
+"style=\"color:red;\" href=\"http://starblank.com/nssw\" target=\"_BLANK\">-"
+"You can get the premium version here-</a>"
+msgstr ""
+"Nota: Las opciones avanzadas de personalización no están disponibles en la "
+"versión gratuíta. <a style=\"color:red;\" href=\"http://starblank.com/nssw\" "
+"target=\"_BLANK\">-Puedes obtener la version Premium aquí-</a>"
+
+#. Name of the plugin
+msgid "Next Previous Products for Woocommerce FREE"
+msgstr "Anterior y Siguiente Producto para Wocommerce Free"
+
+#. Description of the plugin
+msgid "This free plugin shows next and previous product links in product view"
+msgstr ""
+"Este plugin gratuíto muestra el producto anterior y siguiente en la vista de "
+"producto"
+
+#. URI of the plugin
+msgid "http://starblank.com/nssw"
+msgstr "http://starblank.com/nssw"
+
+#. Author of the plugin
+msgid "starblank.com"
+msgstr "http://starblank.com/nssw"
+
+#. Author URI of the plugin
+msgid "https://github.com/saulbustos/"
+msgstr "https://github.com/saulbustos/"
+
+#: include/next-admin.php:65
+msgid "Enabled"
+msgstr "Activado"
+
+#: include/next-admin.php:70
+msgid "Text color"
+msgstr "Color del texto"
+
+#: include/next-admin.php:77
+msgid "Use product title"
+msgstr "Usar nombre del producto"
+
+#: include/next-admin.php:91
+msgid "Location"
+msgstr "Posición"
+
+#: include/next-admin.php:93
+msgid "Over the product"
+msgstr "Sobre el producto"
+
+#: include/next-admin.php:99
+msgid "Applies to"
+msgstr "Aplica a"
+
+#: include/next-admin.php:101
+msgid "Same category"
+msgstr "Misma categoría"
+
+#: include/next-admin.php:107
+msgid "Arrow options"
+msgstr "Opciones de las flechas"
+
+#: include/next-admin.php:109
+msgid "Show default arrows"
+msgstr "Usar flechas por defecto"
+
+#: include/next-admin.php:117
+msgid "Use product image"
+msgstr "Usar imagen del producto"
+
+#: include/next-admin.php:123
+msgid "Text size (in px)"
+msgstr "Tamaño del texto en px"
+
+#: include/next-admin.php:130
+msgid "Custom CSS"
+msgstr "Css personalizado"

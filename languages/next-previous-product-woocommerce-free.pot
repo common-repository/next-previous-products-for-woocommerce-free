@@ -1,0 +1,98 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-07-19 11:55+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: include/next-admin.php:12 include/next-admin.php:12
+msgid "Next / Previous Product Free"
+msgstr ""
+
+#: include/next-admin.php:58
+msgid "NEXT / PREVIOUS PRODUCT FOR WOOCOMMERCE - FREE"
+msgstr ""
+
+#: include/next-admin.php:65
+msgid "Enabled"
+msgstr ""
+
+#: include/next-admin.php:70
+msgid "Text color"
+msgstr ""
+
+#: include/next-admin.php:77
+msgid "Use product title"
+msgstr ""
+
+#: include/next-admin.php:85
+msgid ""
+"Note: Advanced customization options are not available in free version. <a "
+"style=\"color:red;\" href=\"http://starblank.com/nssw\" target=\"_BLANK\">-"
+"You can get the premium version here-</a>"
+msgstr ""
+
+#: include/next-admin.php:91
+msgid "Location"
+msgstr ""
+
+#: include/next-admin.php:93
+msgid "Over the product"
+msgstr ""
+
+#: include/next-admin.php:99
+msgid "Applies to"
+msgstr ""
+
+#: include/next-admin.php:101
+msgid "Same category"
+msgstr ""
+
+#: include/next-admin.php:107
+msgid "Arrow options"
+msgstr ""
+
+#: include/next-admin.php:109
+msgid "Show default arrows"
+msgstr ""
+
+#: include/next-admin.php:117
+msgid "Use product image"
+msgstr ""
+
+#: include/next-admin.php:123
+msgid "Text size (in px)"
+msgstr ""
+
+#: include/next-admin.php:130
+msgid "Custom CSS"
+msgstr ""
+
+#. Name of the plugin
+msgid "Next Previous Products for Woocommerce FREE"
+msgstr ""
+
+#. Description of the plugin
+msgid "This free plugin shows next and previous product links in product view"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://starblank.com/nssw"
+msgstr ""
+
+#. Author of the plugin
+msgid "starblank.com"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://github.com/saulbustos/"
+msgstr ""
